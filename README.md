@@ -1,16 +1,33 @@
-## Hi there 👋
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&size=28&duration=3000&pause=800&color=36BCF7
+    &center=true&vCenter=true&width=800
+    &lines=Hi+👋,+I'm+Trần Phú Dinh;
+    .NET+Developer+%7C+WinForms+%7C+Flutter
+  " />
+</p>
 
-<!--
-**phdinh254/phdinh254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.png" />
+</p>
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🛠 Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,js,git,github,linux" />
+</p>
