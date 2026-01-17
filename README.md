@@ -5,12 +5,6 @@
 <h1 align="center">Hi 👋, I'm Tran Phu Dinh</h1>
 
 <p align="center">
-  I am a programmer who can spend hours talking and doing about programming related topics. Starting my journey with Javascript, I have expanded my knowledge and worked with many different languages such as java align="center">
-</div>
-
-<h1 align="center">Hi 👋, I'm Tran Phu Dinh</h1>
-
-<p align="center">
   I am a programmer who can spend hours talking and doing about programming related topics. Starting my journey with Javascript, I have expanded my knowledge and worked with many different languages such as java, PHP and C#. Every day is an opportunity for me to explore new things in programming and technology.
 </p>
 
