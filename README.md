@@ -6,7 +6,6 @@
 
 <p align="center">
   I am a programmer who can spend hours talking and doing about programming related topics. Starting my journey with Javascript, I have expanded my knowledge and worked with many different languages such as java align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXh6YWRucXgybTZxdm45ejNxdWd1c2FramJoM2Z0c25kbXlhb3Y2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SjkNtYAuV4OXbRIGEc/giphy.gif"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Tran Phu Dinh</h1>
