@@ -10,8 +10,8 @@
 
 <div align="center">
   <h3>Contact me</h3>
-  <a href="https://facebook.com/your-id">
-    <img src="http://facebook.com/puudynnk/" />
+  <a href="facebook.com/puudynnk/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"" />
   </a>
   <a href="mailto:dt2504p@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
