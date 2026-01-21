@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXh6YWRucXgybTZxdm45ejNxdWd1c2FramJoM2Z0c25kbXlhb3Y2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SjkNtYAuV4OXbRIGEc/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
 # Hi 👋, I'm Tran Phu Dinh
@@ -14,7 +14,7 @@ I am a programmer who can spend hours talking and doing about programming relate
 - 📧 You can contact me at **dt2504p@gmail.com**
 - 🧠 I'm learning **.NET Framework** and **Flutter**
 - 🤝 I'm open to collaborating on **web and mobile app projects**
-- � Ask me about **JavaScript, C#, PHP, Java**
+- 💬 Ask me about **JavaScript, C#, PHP, Java**
 
 ## 🛠️ Technologies & Tools
 
@@ -48,22 +48,6 @@ I am a programmer who can spend hours talking and doing about programming relate
   <img src="https://github-readme-stats.vercel.app/api?username=phdinh254&show_icons=true&theme=default&include_all_commits=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdinh254&layout=compact&theme=default" height="180"/>
 </div>
-
-## � Featured Project
-
-### 🏠 Hệ thống Quản lý Nhà trọ
-A comprehensive boarding house management system built with C# Windows Forms
-
-**Features:**
-- 🎨 Modern UI with standardized fonts and responsive design
-- 📄 PDF export functionality for invoices
-- 🏠 Complete management for rooms, customers, contracts, and bills
-- 📊 Dashboard with real-time statistics
-- 🔐 Role-based authentication system
-
-**Tech Stack:** `C#` `Windows Forms` `.NET 8.0` `SQL Server` `iTextSharp`
-
-[🔗 View Project](https://github.com/phdinh254/PT-TK-Quanlynhatro)
 
 ## 📫 Connect With Me
 
