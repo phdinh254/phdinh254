@@ -1,109 +1,123 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Tran+Phu+Dinh;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Tran+Phu+Dinh;Full+Stack+Developer;Passionate+Programmer;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Xin chào, mình là Trần Phú Dinh!
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=phdinh254&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/phdinh254?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=tranphudinh&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/tranphudinh?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
 ---
 
-<p align="center">
-  <em>I am a programmer who can spend hours talking and doing about programming related topics. Starting my journey with Javascript, I have expanded my knowledge and worked with many different languages such as Java, PHP and C#. Every day is an opportunity for me to explore new things in programming and technology.</em>
-</p>
+## 👨‍💻 Giới thiệu về mình
+```javascript
+const tranPhuDinh = {
+    name: "Trần Phú Dinh",
+    role: "Full Stack Developer",
+    education: {
+        university: "Đại học Trà Vinh",
+        major: "Công nghệ Thông tin",
+        year: "Năm 3",
+        location: "Trà Vinh, Việt Nam"
+    },
+    skills: {
+        frontend: ["JavaScript", "TypeScript", "HTML", "CSS", "React.js"],
+        backend: ["Node.js", "Express.js", "Python"],
+        database: ["MongoDB"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "Code is poetry ✨"
+};
+```
 
-## 🚀 About Me
+---
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🌍 I'm based in **Tra Vinh, Vietnam**
-- 📧 You can contact me at **dt2504p@gmail.com**
-- 🧠 I'm currently learning **.NET Framework** and **Flutter**
-- 🤝 I'm open to collaborating on **web and mobile app projects**
-- 💬 Ask me about **JavaScript, C#, PHP, Java**
-- ⚡ Fun fact: **I love exploring new programming technologies every day!**
-
-<br clear="both"/>
-
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
-### Programming Languages
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend Development
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Database
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Technologies
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Tools
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 </div>
 
-## 📊 GitHub Statistics
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phdinh254&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdinh254&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tranphudinh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranphudinh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phdinh254&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranphudinh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phdinh254&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tranphudinh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-## 📈 Activity Graph
+---
+
+## 🎯 Mục tiêu 2024
+
+- 🌱 Học sâu về **Microservices Architecture**
+- 🎯 Hoàn thành **5 dự án full-stack**
+- 📚 Đóng góp cho **Open Source**
+- 🏆 Nâng cao **System Design**
+- 💪 Học **Cloud Computing (AWS/Azure)**
+
+---
+
+## 🤝 Kết nối với mình
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phdinh254&theme=react-dark&bg_color=20232a&hide_border=true" />
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/puudynnk/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dt2504p@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phdinh254)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phdinh254)
-
+  <a href="mailto:tranphudinh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/tranphudinh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/tranphudinh">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <h3>💖 Thanks for visiting my profile!</h3>
-  <p>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-    <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-  </p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <h3>💡 "Code is poetry" 💡</h3>
+  <p>⭐️ From <a href="https://github.com/tranphudinh">Trần Phú Dinh</a> with ❤️</p>
 </div>
