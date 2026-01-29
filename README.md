@@ -7,13 +7,13 @@
 - Quan tâm đến **hiệu năng, logic backend & trải nghiệm người dùng**
 - Luôn học hỏi qua **project thực tế**
 ## 🛠 Tech Stack
-**Languages:** JavaScript · TypeScript · Python  
-**Frontend:** HTML · CSS · React.js  
-**Backend:** Node.js · Express.js  
-**Database:** MongoDB  
+- **Languages:** JavaScript · TypeScript · Python  
+- **Frontend:** HTML · CSS · React.js  
+- **Backend:** Node.js · Express.js  
+- **Database:** MongoDB  
 ## 🎯 Goals
-** Nâng cao kỹ năng ** **Full-stack**
-** Hướng tới ** **AI ứng dụng trong Web**
+- Nâng cao kỹ năng **Full-stack**
+- Hướng tới **AI ứng dụng trong Web**
 ## 📫 Contact
 🔗 GitHub: https://github.com/phdinh254 <br/>
 💌 Eamil: tranphudinh2405@gmail.com
