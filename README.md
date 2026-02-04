@@ -16,4 +16,4 @@
 - Hướng tới **AI ứng dụng trong Web**
 ## 📫 Contact
 🔗 GitHub: https://github.com/phdinh254 <br/>
-💌 Eamil: tranphudinh2405@gmail.com
+💌 Email: tranphudinh2405@gmail.com
