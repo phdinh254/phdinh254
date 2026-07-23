@@ -3,14 +3,14 @@
 🏫 **Đại học Trà Vinh**  
 💡 Định hướng: **Full-stack Web Developer**
 ## 🚀 About Me
-- Yêu thích xây dựng **ứng dụng web hiện đại**
-- Quan tâm đến **hiệu năng, logic backend & trải nghiệm người dùng**
+- Yêu thích xây dựng **ứng dụng web hiện đại, ứng dụng thực tế cao**
+- Quan tâm đến **hiệu năng, trải nghiệm người dùng**
 - Luôn học hỏi qua **project thực tế**
 ## 🛠 Tech Stack
-- **Languages:** JavaScript · TypeScript · Python  
-- **Frontend:** HTML · CSS · React.js  
-- **Backend:** Node.js · Express.js  
-- **Database:** MongoDB  
+- **Languages:** JavaScript · TypeScript 
+- **Frontend:** React.js · Next.js  
+- **Backend:** Node.js · Nest.js  
+- **Database:** MongoDB · PostgreSQL 
 ## 🎯 Goals
 - Nâng cao kỹ năng **Full-stack**
 - Hướng tới **AI ứng dụng trong Web**
