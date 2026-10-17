@@ -2,7 +2,7 @@
 <img src="./assets/github-banner-walking-left-1200x200.gif" width="100%" alt="Animated pixel banner">
 
 <h1>
-Hi 👋, I'm Trần Phú Dinh
+Hi 👋, I'm Tran Phu Dinh
 <br>
 <sub><em>Full-stack Web Developer</em></sub>
 </h1>
