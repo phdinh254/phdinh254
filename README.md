@@ -4,7 +4,7 @@
 <h1>
 Hi 👋, I'm Trần Phú Dinh
 <br>
-<sub><span style="font-weight: normal;">Full-stack Web Developer</span></sub>
+<sub><em>Full-stack Web Developer</em></sub>
 </h1>
 </div>
 
