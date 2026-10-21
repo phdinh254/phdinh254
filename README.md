@@ -17,7 +17,7 @@ I’m a Full-stack Web Developer who loves building practical web applications a
 <h3>Contact me</h3>
 
 <p>
-<a href="https://facebook.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" height="45" alt="Facebook"></a>&nbsp;&nbsp;
+<a href="https://facebook.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" height="45" alt="https://www.facebook.com/phdinh254/"></a>&nbsp;&nbsp;
 <a href="mailto:tranphudinh2405@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"></a>
 </p>
 
